@@ -1,0 +1,6 @@
+name: Rails Best Practices Linter
+author: LogicBox, LLC
+description: Lint your Ruby on Rails code with rails_best_practices
+runs:
+  using: docker
+  image: Dockerfile
